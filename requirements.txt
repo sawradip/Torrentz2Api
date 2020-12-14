@@ -1,0 +1,7 @@
+python
+beautifulsoup4
+lxml
+requests
+flask
+flask-restful
+gunicorn

@@ -1,4 +1,3 @@
-python
 beautifulsoup4
 lxml
 requests
